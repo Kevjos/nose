@@ -5,7 +5,7 @@ import com.prueba.demo.modelo.Establecimiento;
 
 
 /**
-* Interface for   EstablecimientoDAO.
+* Inteface for   EstablecimientoDAO.
 *
 */
 public interface IEstablecimientoDAO extends Dao<Establecimiento, Integer> {
